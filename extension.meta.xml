@@ -12,7 +12,6 @@
 			<name github="symphonists" symphony="community">Symphony Community</name>
 		</author>
 	</authors>
-
 	<releases>
 		<release version="1.8.2" date="2016-08-16" min="2.6.0" max="2.x.x">
 			- Supported on PHP 7
